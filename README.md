@@ -1,5 +1,3 @@
-![Imersão Full Stack && Full Cycle](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png)
-
 # Imersao Full Cycle Challenge 01
 
 Given the following gRPC protofile:
